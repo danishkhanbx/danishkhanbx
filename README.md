@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danishkhanbx
 - 👀 I’m interested in Reasearch , Quantum Computer
-- 🌱 I’m currently learning First year Computer Engineering
+- 🌱 I’m currently learning Computer Engineering (First year)
 - 💞️ I’m looking to collaborate on exhilarating projects
 - 📫 How to reach mohammeddanish68616@gmail.com mail me 
 
