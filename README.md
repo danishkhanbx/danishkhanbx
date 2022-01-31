@@ -1,4 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danishkhanbx&repo=github-readme-stats)](https://github.com/danishkhanbx/github-readme-stats)
 <h1 align="center">Hi 👋, I'm Danish Khan</h1>
 <h3 align="center">I am interested in pretty much everything.</h3>
 
@@ -17,4 +16,4 @@
 <a href="https://instagram.com/danishkhanbx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danishkhanbx" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/mohammeddanish61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mohammeddanish61" height="30" width="40" /></a>
 </p>
-- 📫 How to reach me **mohammeddanish68616@gmail.com**
+- 📫 @mohammeddanish68616@gmail.com
