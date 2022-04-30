@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danish Khan</h1>
 <h3 align="center">I am interested in pretty much everything.</h3>
 
-- 🔭 I’m currently working on [Travel-Advisor-with-Google-Maps](https://github.com/danishkhanbx/Travel-Advisor-with-Google-Maps.git)
+- 🔭 I’m currently working on nothing for the time being.
 
 - 🌱 I’m currently learning **Too many things at the same time 🤯!!!**
 
