@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mohammeddanish68616@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/12REiNYvCpLCCbHKGp2wHH-HyIMgdg9wA/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1-8jfQnxU74hxXxQ-WUdWYih4YHtauerm/view?usp=sharing)
 
 - ⚡ Fun fact **I think I think a lot 🤔?**
 
@@ -25,7 +25,7 @@
 </br></br></br></br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammed-danish-khan-480465205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-danish-khan-480465205/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/danish-khan-480465205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-danish-khan-480465205/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16112131/danish-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16112131/danish-khan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/danishkhanbx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danishkhanbx" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mohammeddanish61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mohammeddanish61" height="30" width="40" /></a>
