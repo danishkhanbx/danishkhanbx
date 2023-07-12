@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danish Khan</h1>
 <h3 align="center">I am interested in pretty much everything.</h3>
 
-- 🔭 I’m currently working on nothing for the time being.
+- 🔭 I’m currently working on **Generative AI 🤖**.
 
 - 🌱 I’m currently learning **Too many things at the same time 🤯!!!**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Its better if you just Google it 🙃.**
 
-- 📫 How to reach me **mohammeddanish68616@gmail.com**
+- 📫 How to reach me **danishkhanbx@gmail.com**
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1-8jfQnxU74hxXxQ-WUdWYih4YHtauerm/view?usp=sharing)
 
