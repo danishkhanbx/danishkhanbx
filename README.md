@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Too many things at the same time 🤯!!!**
 
-- 👯 I’m looking to collaborate on **Intrinsic Stock finder Algorithms.**
+- 👯 I’m looking to collaborate on **Generative AI Webapp & Apps.**
 
 - 💬 Ask me about **Its better if you just Google it 🙃.**
 
