@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Generative AI Webapp & Apps.**
 
-- 💬 Ask me about **Its better if you just Google it 🙃.**
+- 💬 Ask me about **Its better if you just GPT it 🙃.**
 
 - 📫 How to reach me **danishkhanbx@gmail.com**
 
