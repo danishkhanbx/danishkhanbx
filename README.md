@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Too many things at the same time 🤯!!!**
 
-- 👯 I’m looking to collaborate on **Generative AI Webapp & Apps.**
+- 👯 I’m looking to collaborate on **FlutterFlow Projects.**
 
 - 💬 Ask me about **Its better if you just GPT it 🙃.**
 
