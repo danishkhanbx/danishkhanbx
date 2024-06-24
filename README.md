@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **FlutterFlow Projects.**
 
-- 💬 Ask me about **Its better if you just GPT it 🙃.**
+- 💬 Ask me about **Its better if you just Claude it 🙃.**
 
 - 📫 How to reach me **danishkhanbx@gmail.com**
 
