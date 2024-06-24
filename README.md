@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danish Khan</h1>
 <h3 align="center">I am interested in pretty much everything.</h3>
 
-- 🔭 I’m currently working on **Autism Detection, Prevention, & Cure Webapp**.
+- 🔭 I’m currently working on **[Learning App Development](https://github.com/danishkhanbx/Learn-App-Development)**.
 
 - 🌱 I’m currently learning **Too many things at the same time 🤯!!!**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **danishkhanbx@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1RpzPc_wPlKcMFXZSBq-Jel9nvCgXe4zE/view?usp=sharing)
+- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1RpzPc_wPlKcMFXZSBq-Jel9nvCgXe4zE/view?usp=sharing)**
 
 - ⚡ Fun fact **I think I think a lot 🤔?**
 
