@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **danishkhanbx@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1gXVv1VXG5AZNAY7_9kCtTIpcey8k2KBi/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1RpzPc_wPlKcMFXZSBq-Jel9nvCgXe4zE/view?usp=sharing)
 
 - ⚡ Fun fact **I think I think a lot 🤔?**
 
