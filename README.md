@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Danish Khan</h1>
-<h3 align="center">I am interested in pretty much everything.</h3>
+<h3 align="center">I am interested in No-Code Dev Tools.</h3>
 
 - 🔭 I’m currently working on **[Learning App Development](https://github.com/danishkhanbx/Learn-App-Development)**.
 
 - 🌱 I’m currently learning **Too many things at the same time 🤯!!!**
 
-- 👯 I’m looking to collaborate on **FlutterFlow Projects.**
+- 👯 I’m looking to collaborate on **Projects using FlutterFlow**
 
-- 💬 Ask me about **Its better if you just Claude it 🙃.**
+- 💬 Ask me about **how to center a div**
 
 - 📫 How to reach me **danishkhanbx@gmail.com**
 
