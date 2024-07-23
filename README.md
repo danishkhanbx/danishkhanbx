@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Projects using FlutterFlow**
 
-- 💬 Ask me about **how to center a div**
+- 💬 Ask me about **how to center a <div>**
 
 - 📫 How to reach me **danishkhanbx@gmail.com**
 
