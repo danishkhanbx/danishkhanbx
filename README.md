@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **[Learning App Development](https://github.com/danishkhanbx/Learn-App-Development)**.
 
-- 🌱 I’m currently learning **Too many things at the same time 🤯!!!**
+- 🌱 I’m currently learning **Flutter, Firebase, & Postgres**
 
-- 👯 I’m looking to collaborate on **Projects using FlutterFlow**
+- 👯 I’m looking to collaborate on **Projects build around FlutterFlow**
 
-- 💬 Ask me about **how to center a &lt;div&gt;**
+- 💬 Ask me about **FlutterFlow**
 
 - 📫 How to reach me **danishkhanbx@gmail.com**
 
